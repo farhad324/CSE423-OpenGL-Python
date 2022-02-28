@@ -4,7 +4,7 @@
 
 ## Task 2 - House
 
-![task2](task1.PNG)
+![task2](task2.PNG)
 
 ## Task 1 - Heads or Tails
 
