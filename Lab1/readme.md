@@ -1,6 +1,6 @@
 ## Task 1 - Random Dots
 
-![task1](task 1.PNG)
+![task1](task1.PNG)
 
 ## Task 2 - House
 
