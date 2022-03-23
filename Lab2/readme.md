@@ -1,4 +1,4 @@
-## Task 1 - Draw the last two digits of your ID
+## Task 1 - Draw the last two digits of your ID using Midpoint Line Generating Algorithm
 
 - **User can give any ID to get the output**
 - **Just put your number, the code will extract the last two digits and draw them**
