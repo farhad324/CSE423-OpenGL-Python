@@ -52,8 +52,6 @@ def screen():
     glLoadIdentity()
 
     eightWayCircle(500, 500, 300)
-    # midPointCircle(400,400,300)
-    # midPointCircle(400,550,150)
 
     glutSwapBuffers()
 
